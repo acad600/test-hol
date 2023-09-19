@@ -12,7 +12,7 @@ how to :ref:`installation` the project.
 .. note::
 
 
-   Testing changes 123.
+   Testing changes JT22-1.
 
 
 Contents
